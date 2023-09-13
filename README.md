@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming(?)
 - 🌱 I’m currently learning Java, C++
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me [https://vk.com/yushkosel | VK]
+- 📫 How to reach me VK: https://vk.com/yushkosel
 
 <!---
 YuriySeleznev/YuriySeleznev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
